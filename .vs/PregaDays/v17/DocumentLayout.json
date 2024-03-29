@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\asp.net\\PregaDays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\controllers\\descriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\controllers\\descriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\models\\dto\\daydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\models\\dto\\daydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\data\\pregadaysdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\data\\pregadaysdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\repositories\\sqldescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\repositories\\sqldescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\models\\dto\\adddayrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\models\\dto\\adddayrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\mapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\mapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\models\\domain\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\models\\domain\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\repositories\\idescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\repositories\\idescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\data\\pregadaysauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\data\\pregadaysauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|f:\\asp.net\\pregadays\\pregadays\\migrations\\pregadaysdb\\20240327220815_pregadays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40A5E2D-B5C5-42D4-9A1A-3E5C10ECD2A0}|PregaDays\\PregaDays.csproj|solutionrelative:pregadays\\migrations\\pregadaysdb\\20240327220815_pregadays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Program.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Program.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Program.cs",
+              "RelativeToolTip": "PregaDays\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:47:35.878Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240327220815_pregadays.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Migrations\\PregaDaysDb\\20240327220815_pregadays.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Migrations\\PregaDaysDb\\20240327220815_pregadays.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Migrations\\PregaDaysDb\\20240327220815_pregadays.cs",
+              "RelativeToolTip": "PregaDays\\Migrations\\PregaDaysDb\\20240327220815_pregadays.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:08:15.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlDescriptionRepository.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Repositories\\SqlDescriptionRepository.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Repositories\\SqlDescriptionRepository.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Repositories\\SqlDescriptionRepository.cs",
+              "RelativeToolTip": "PregaDays\\Repositories\\SqlDescriptionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:02:22.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDescriptionRepository.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Repositories\\IDescriptionRepository.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Repositories\\IDescriptionRepository.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Repositories\\IDescriptionRepository.cs",
+              "RelativeToolTip": "PregaDays\\Repositories\\IDescriptionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:01:58.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Day.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\Domain\\Day.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Models\\Domain\\Day.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\Domain\\Day.cs",
+              "RelativeToolTip": "PregaDays\\Models\\Domain\\Day.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:54:52.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PregaDaysDbContext.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Data\\PregaDaysDbContext.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Data\\PregaDaysDbContext.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Data\\PregaDaysDbContext.cs",
+              "RelativeToolTip": "PregaDays\\Data\\PregaDaysDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:54:08.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DescriptionController.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Controllers\\DescriptionController.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Controllers\\DescriptionController.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Controllers\\DescriptionController.cs",
+              "RelativeToolTip": "PregaDays\\Controllers\\DescriptionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:53:57.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PregaDays\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:02:10.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Models\\DTO\\LoginRequestDto.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeToolTip": "PregaDays\\Models\\DTO\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:28:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DayDto.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\DayDto.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Models\\DTO\\DayDto.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\DayDto.cs",
+              "RelativeToolTip": "PregaDays\\Models\\DTO\\DayDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:27:47.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\appsettings.json",
+              "RelativeDocumentMoniker": "PregaDays\\appsettings.json",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\appsettings.json",
+              "RelativeToolTip": "PregaDays\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T18:12:06.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Mapper\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Mapper\\AutoMapperProfiles.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Mapper\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "PregaDays\\Mapper\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:21:01.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddDayRequestDto.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\AddDayRequestDto.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Models\\DTO\\AddDayRequestDto.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\AddDayRequestDto.cs",
+              "RelativeToolTip": "PregaDays\\Models\\DTO\\AddDayRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:32:39.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Models\\DTO\\RegisterRequestDto.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeToolTip": "PregaDays\\Models\\DTO\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:11:49.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Repositories\\TokenRepository.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "PregaDays\\Repositories\\TokenRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:43:38.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PregaDaysAuthDbContext.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Data\\PregaDaysAuthDbContext.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Data\\PregaDaysAuthDbContext.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Data\\PregaDaysAuthDbContext.cs",
+              "RelativeToolTip": "PregaDays\\Data\\PregaDaysAuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:40:45.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "PregaDays\\Models\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "F:\\asp.net\\PregaDays\\PregaDays\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "PregaDays\\Models\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:17:20.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

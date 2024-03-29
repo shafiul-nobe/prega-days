@@ -1,0 +1,6 @@
+@PregaDays_HostAddress = http://localhost:5016
+
+GET {{PregaDays_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

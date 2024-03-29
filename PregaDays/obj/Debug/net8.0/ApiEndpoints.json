@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "PregaDays.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequestDto",
+        "Type": "PregaDays.Models.DTO.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PregaDays.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerRequestDto",
+        "Type": "PregaDays.Models.DTO.RegisterRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PregaDays.Controllers.DescriptionController",
+    "Method": "GetAll",
+    "RelativePath": "api/Description",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PregaDays.Controllers.DescriptionController",
+    "Method": "Create",
+    "RelativePath": "api/Description/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addDayRequestDto",
+        "Type": "PregaDays.Models.DTO.AddDayRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
